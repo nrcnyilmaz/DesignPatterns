@@ -12,11 +12,11 @@ public class StrategyMainClass {
         System.out.println(" ** STRATEGY DESIGN PATTERN DEMO ** ");
 
         Scanner in = new Scanner(System.in);
-        IAttack attack = null;
+        IAttack attack;
         Context context = new Context();
         int input;
 
-        System.out.println("Choose weapon: \n1-Knife\n2-Blade\n3-Gun\n");
+        System.out.println("Game started. Choose weapon: \n1-Knife\n2-Blade\n3-Gun\n");
         input = in.nextInt();
         switch (input) {
             case 1:
