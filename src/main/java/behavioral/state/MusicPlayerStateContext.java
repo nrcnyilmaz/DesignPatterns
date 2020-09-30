@@ -7,7 +7,7 @@ public class MusicPlayerStateContext {
     private MusicPlayerState state;
 
     public MusicPlayerStateContext() {
-        state = new PausePlayerState();
+        state = new PlayPlayerState();
     }
 
     public void setState(MusicPlayerState state) {
