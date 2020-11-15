@@ -12,8 +12,7 @@ public abstract class Engineering {
 
     protected abstract void specialClasses();
 
-    private void commonClasses() {
-        System.out.print("Math, Physics, Chemistry, ");
-
+    protected final void commonClasses() {
+        System.out.println("COMMON CLASSES: Math, Physics, Chemistry ");
     }
 }

@@ -12,5 +12,8 @@ public class TemplateMethodMainClass {
 
         Engineering electricalEngineering = new ElectricalEngineering();
         electricalEngineering.getClasses();
+
+        //electricalEngineering.commonClasses();
+
     }
 }
