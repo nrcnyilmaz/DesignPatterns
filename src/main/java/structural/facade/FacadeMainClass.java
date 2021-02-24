@@ -8,7 +8,7 @@ public class FacadeMainClass {
 
     public static void main(String[] args) {
 
-        System.out.println(" *** FACADE DESIGN PATTERNT *** ");
+        System.out.println(" *** FACADE DESIGN PATTERN *** ");
 
         FileReaderFacade facade = new FileReaderFacade();
 
