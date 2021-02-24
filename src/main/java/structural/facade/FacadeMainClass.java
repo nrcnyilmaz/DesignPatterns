@@ -7,6 +7,9 @@ package structural.facade;
 public class FacadeMainClass {
 
     public static void main(String[] args) {
+
+        System.out.println(" *** FACADE DESIGN PATTERNT *** ");
+
         FileReaderFacade facade = new FileReaderFacade();
 
         String pdfName = "test.pdf";
