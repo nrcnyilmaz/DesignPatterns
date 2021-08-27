@@ -3,8 +3,8 @@
 This project contains sample project codes of design patterns in Gang of Four's Design Patterns book.
 
 1. CREATIONAL DESIGN PATTERNS
-..*Factory Method Design Pattern
-..*Singleton Design Pattern
+..* Factory Method Design Pattern
+..* Singleton Design Pattern
 ..*Abstract Factory Design Pattern
 
 2. BEHAVIORAL DESIGN PATTERNS
