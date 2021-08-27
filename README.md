@@ -2,6 +2,11 @@
 
 This project contains sample project codes of design patterns in Gang of Four's Design Patterns book.
 
+Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+          
 1. CREATIONAL DESIGN PATTERNS
 a. Factory Method Design Pattern
 ..* Singleton Design Pattern
